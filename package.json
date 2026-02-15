@@ -1,0 +1,22 @@
+{
+  "name": "hft-terminal-control-plane",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "High-performance terminal TUI scaffold for automated trading (Bun + TypeScript + Ink)",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "dev": "bash scripts/dev.sh",
+    "typecheck": "bunx tsc --noEmit",
+    "bench": "bun run scripts/bench.ts"
+  },
+  "dependencies": {
+    "ink": "5.1.0",
+    "react": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/bun": "1.2.11",
+    "@types/react": "18.3.12",
+    "typescript": "5.9.2"
+  }
+}
