@@ -1,10 +1,13 @@
-# HFT like Terminal Control Panel (Ink + Bun)
-##Built using Opencode powered by Codex
+# HFT-like Terminal Control Panel (Ink + Bun)
 
-Primary UI implementation: **Ink** (React for CLI).  
-Runtime: **Bun**. Language: **TypeScript (strict mode)**.
+This is a simple starter project I built using **OpenCode powered by Codex (GPT-5.3)** to explore AI-assisted development workflows.
 
-This project is an event-driven terminal control plane scaffold for automated trading.
+Primary UI implementation: **Ink** (React for CLI)  
+Runtime: **Bun**  
+Language: **TypeScript (strict mode)**
+
+This project is an event-driven terminal control plane scaffold for automated trading systems.
+
 
 > This is my first project built with OpenCode powered by Codex 5.3.
 
