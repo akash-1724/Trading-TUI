@@ -5,6 +5,8 @@ Runtime: **Bun**. Language: **TypeScript (strict mode)**.
 
 This project is an event-driven terminal control plane scaffold for automated trading.
 
+> This is my first project built with OpenCode powered by Codex 5.3.
+
 ## What is implemented
 
 - Typed module registry + event bus (`register`, `unregister`, `get`, `emit`, `on`, `off`)
