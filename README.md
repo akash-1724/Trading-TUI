@@ -1,4 +1,4 @@
-# HFT Terminal Control Plane (Ink + Bun)
+# HFT like Terminal Control Panel (Ink + Bun)
 
 Primary UI implementation: **Ink** (React for CLI).  
 Runtime: **Bun**. Language: **TypeScript (strict mode)**.
