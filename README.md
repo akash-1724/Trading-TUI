@@ -1,4 +1,5 @@
 # HFT like Terminal Control Panel (Ink + Bun)
+##Built using Opencode powered by Codex
 
 Primary UI implementation: **Ink** (React for CLI).  
 Runtime: **Bun**. Language: **TypeScript (strict mode)**.
