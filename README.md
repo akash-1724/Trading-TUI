@@ -1,4 +1,4 @@
-# HFT-like Terminal Control Panel (Ink + Bun)
+# HFT-like Terminal Control Panel
 
 This is a simple starter project I built using **OpenCode powered by Codex (GPT-5.3)** to explore AI-assisted development workflows.
 
